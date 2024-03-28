@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🇨🇦 Currently at the University of British Columbia in the Second Degree BCS Program!
+* 🇨🇦 Currently studying CS at the University of British Columbia in the Second Degree BCS Program!
 * 🎓 Graduated University of Waterloo Civil Engineering 2023!
 * 👨‍💻 Avid software developer seeking new challenges and internship opportunities!
 * 🖥 Previously interned at [NCR](https://www.ncr.com/) and various civil engineering companies!
