@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 * 🇨🇦 Currently studying CS at the University of British Columbia in the Second Degree BCS Program!
 * 🎓 Graduated University of Waterloo Civil Engineering 2023!
-* 👨‍💻 Avid software developer seeking new challenges and internship opportunities!
-* 🖥 Previously interned at [NCR](https://www.ncr.com/) and various civil engineering companies!
+* 👨‍💻 Avid software developer seeking new challenges and internship opportunities in 2025!
+* 🖥 Currently Firmware Engineering at [Atlas Power Technologies](https://atlaspowertechnologies.ca/); previously interned at [NCR](https://www.ncr.com/)!
 * ⚡ Fun fact: I'm a big volleyball and Formula 1 fan! (checkout some of my [videos](https://www.youtube.com/channel/UCdehN4MMk4gToyqTC-WES-A))
 * 📫 Check out my [LinkedIn](https://www.linkedin.com/in/harrychen0/)!
