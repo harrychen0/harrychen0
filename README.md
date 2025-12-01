@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🇨🇦 Currently studying CS at the University of British Columbia in the Second Degree BCS Program!
-* 🎓 Graduated University of Waterloo Civil Engineering 2023!
-* 👨‍💻 Avid software developer seeking new challenges and internship opportunities in 2025!
-* 🖥 Currently Software Developer at [Atlas Power Technologies](https://atlaspowertechnologies.ca/); previously interned at [NCR](https://www.ncr.com/)!
+* 🇨🇦 Currently studying CS at the University of British Columbia in the Second Degree BCS Program
+* 🎓 Graduated University of Waterloo Civil Engineering 2023
+* 👨‍💻 Skilled fullstack software developer seeking new grad opportunities in 2026
+* 🖥 Currently SWE Intern at Shopify, prev. interned at Amazon
 * ⚡ Fun fact: I'm a big volleyball and Formula 1 fan! (checkout some of my [videos](https://www.youtube.com/channel/UCdehN4MMk4gToyqTC-WES-A))
-* 📫 Check out my [LinkedIn](https://www.linkedin.com/in/harrychen0/)!
+* 📫 Check out my [LinkedIn](https://www.linkedin.com/in/harrychen0/)
